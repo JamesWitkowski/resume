@@ -1,13 +1,19 @@
 html {
-    background-color: seagreen;
+    padding-left: 2px;
     text-align: justify;
 }
 body {
     background-color: mediumblue;
 }
-#name {
+.name {
     font-size: 20px;
 }
 .school {
-    font-size: 16px;
+    font-size: 18px;
+}
+h3 {
+    font-size: 20px;
+}
+#email {
+    font-size: 20px;
 }
