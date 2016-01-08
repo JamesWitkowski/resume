@@ -1,7 +1,4 @@
-html {
-    padding-left: 2px;
-    text-align: justify;
-}
+
 body {
     background-color: mediumblue;
 }
@@ -12,7 +9,7 @@ body {
     font-size: 18px;
 }
 h3 {
-    font-size: 20px;
+    font-size: 18px;
 }
 #email {
     font-size: 20px;
